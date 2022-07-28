@@ -95,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/skp2020.sidoarjokab.go.id",
     "slug": "skp",
     "status": "up",
-    "uptime": "6.27%",
-    "uptimeDay": "6.27%",
-    "uptimeWeek": "6.27%",
-    "uptimeMonth": "6.27%",
-    "uptimeYear": "6.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1451,
     "timeDay": 1451,
     "timeWeek": 1451,
     "timeMonth": 1451,
     "timeYear": 1451,
-    "dailyMinutesDown": {
-      "2022-07-28": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
