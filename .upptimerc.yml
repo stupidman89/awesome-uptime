@@ -15,8 +15,8 @@ sites:
     url: https://siksda.sidoarjokab.go.id
   - name: skp
     url: http://skp2020.sidoarjokab.go.id
-  - name: sipd
-    url: https://sidoarjokab.sipd.kemendagri.go.id/daerah
+  - name: e-kinerja
+    url: http://e-kinerja.sidoarjokab.go.id
     
 
 status-website:
