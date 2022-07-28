@@ -14,7 +14,7 @@ sites:
   - name: siksda
     url: https://siksda.sidoarjokab.go.id
   - name: skp
-    url: https://skp2020.sidoarjokab.go.id
+    url: http://skp2020.sidoarjokab.go.id
     
 
 status-website:
