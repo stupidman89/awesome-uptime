@@ -16,7 +16,7 @@ sites:
   - name: skp
     url: http://skp2020.sidoarjokab.go.id
   - name: sipd
-    url: https://sidoarjokab.sipd.kemendagri.go.id
+    url: https://sidoarjokab.sipd.kemendagri.go.id/daerah
     
 
 status-website:
