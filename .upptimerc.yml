@@ -9,8 +9,11 @@ sites:
     url: https://en.wikipedia.org
   - name: e-buddy
     url: https://e-buddy.sidoarjokab.go.id
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: sidoarjokab.go.id
+    url: https://sidoarjokab.go.id
+  - name: siksda
+    url: https://siksda.sidoarjokab.go.id
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
