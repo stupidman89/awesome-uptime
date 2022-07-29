@@ -17,6 +17,8 @@ sites:
     url: http://skp2020.sidoarjokab.go.id
   - name: e-kinerja
     url: http://e-kinerja.sidoarjokab.go.id
+  - name: bos
+    url: https://bos.sidoarjokab.go.id
     
 
 status-website:
