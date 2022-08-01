@@ -113,18 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/e-kinerja.sidoarjokab.go.id",
     "slug": "e-kinerja",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1620,
     "timeDay": 1653,
     "timeWeek": 1620,
     "timeMonth": 1620,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2022-08-01": 0
+      "2022-08-01": 4
     }
   },
   {
